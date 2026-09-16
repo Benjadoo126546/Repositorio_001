@@ -1,3 +1,5 @@
 Versión 1: Creación del proyecto
 
 Versión 2: Creación del mapa
+
+versión 4: Benjamín creo una nueva mecánica de portales
